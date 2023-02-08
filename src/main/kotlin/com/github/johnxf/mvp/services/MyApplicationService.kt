@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.johnxf.mvp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.johnxf.mvp.MyBundle
 
 class MyApplicationService {
 
